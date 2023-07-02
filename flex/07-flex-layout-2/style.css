@@ -28,7 +28,6 @@ body {
 
 .content {
   display: flex;
-  align-items: stretch;
   flex: 1;
 }
 
